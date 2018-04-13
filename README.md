@@ -1,1 +1,1 @@
-# CircleCI Coverage Test
+# CircleCI Coverage Test &middot; [![CircleCI](https://circleci.com/gh/yaroslavgribov/circleci-coverage-test.svg?style=shield)](https://circleci.com/gh/yaroslavgribov/circleci-coverage-test)
